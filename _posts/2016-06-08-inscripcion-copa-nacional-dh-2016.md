@@ -1,21 +1,21 @@
 ---
-author: []
+datePublished: '2016-06-08T05:23:25.545Z'
+sourcePath: _posts/2016-06-08-inscripcion-copa-nacional-dh-2016.md
+isBasedOnUrl: >-
+  https://docs.google.com/forms/d/1jtTZFFKSX-XXtYmPhq3vVk1MIivIFgJqzz3Y4jm3-SQ/viewform?c=0&w=1
+keywords: []
 related: []
+author: []
+dateModified: '2016-06-08T05:23:25.071Z'
+title: ''
+app_links: []
 publisher:
   url: 'http://docs.google.com'
   name: Google Docs
   favicon: 'https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png'
   domain: docs.google.com
-keywords: []
 description: ''
-app_links: []
-isBasedOnUrl: >-
-  https://docs.google.com/forms/d/1jtTZFFKSX-XXtYmPhq3vVk1MIivIFgJqzz3Y4jm3-SQ/viewform?c=0&w=1
-title: ''
-datePublished: '2016-06-08T05:14:15.901Z'
-dateModified: '2016-06-08T05:13:35.432Z'
 starred: false
-sourcePath: _posts/2016-06-08-inscripcion-copa-nacional-dh-2016.md
 inFeed: true
 hasPage: false
 inNav: false
