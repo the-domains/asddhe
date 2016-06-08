@@ -4,8 +4,22 @@
         <description><![CDATA[ASDDHe]]></description>
         <link>https://thegrid.ai/asddhe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 06:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 06:04:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asddhe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Course Preview El Cabuyal]]></title>
+            <description><![CDATA[<article><h1>Course Preview El Cabuyal</h1><p>Daniel Coghi y Alvaro Castillo nos muestran la pista en la que se correrá la primera fecha de la Copa Nacional 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db17dd2473c66404d1caf261c68fa5c10418d7d6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3ofPHIf-Fd0</link>
+            <guid isPermaLink="false">a99587a2-2938-4dee-8635-972bfae35bfd</guid>
+            <pubDate>Wed, 08 Jun 2016 06:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Course Preview Senderos Colon]]></title>
+            <description><![CDATA[<article><h1>Course Preview Senderos Colon</h1><p>Recorrido para la primera fecha de la Copa Nacional de Downhill 2016 en Senderos Colon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26e0665617d141c5828cfed1b778db947eeac3e9.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AXf3rFlyCHc</link>
+            <guid isPermaLink="false">46368275-24db-425b-86fd-1371c3cc9a8f</guid>
+            <pubDate>Wed, 08 Jun 2016 06:03:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PROMO Campeonato Nacional 2015]]></title>
             <description><![CDATA[<article><h1>PROMO Campeonato Nacional 2015</h1><p>Video oficial de la ASOCIACIÓN DEPORTIVA DE DOWNHILL sobre el Campeonato Nacional de Downhill 2015, en la PISTA EL CABUYAL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a13f0907c397cf10610516f79edd3f7cd7c3272d.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <link>http://ascrdh.blogspot.com/2016/05/conociendo-un-poco-ronny-porras.html</link>
             <guid isPermaLink="false">272bb410-0142-48d7-a680-87f4a3111956</guid>
             <pubDate>Wed, 08 Jun 2016 04:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asociación Costarricense de Downhill]]></title>
-            <description><![CDATA[<article><h1>Asociación Costarricense de Downhill</h1><p>Asociación Deportiva de Downhill continúa su temporada con la Segunda Fecha de la COPA NACIONAL DE DOWNHILL en Senderos de Colón, en Ciudad Colón. Se espera una lucha cerrada entre Álvaro Hidalgo y Roberto "Teto" Castillo, en la categoría élite.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d850214be0cf6522a5bfb60fd02e74c3d36263ce.jpg"></article>]]></description>
-            <link>http://ascrdh.blogspot.com/2016/05/continua-la-copa-nacional-dh.html</link>
-            <guid isPermaLink="false">47ccdf7b-a749-4f41-9371-e807c307af42</guid>
-            <pubDate>Wed, 08 Jun 2016 04:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asociación Costarricense de Downhill]]></title>
-            <description><![CDATA[<article><h1>Asociación Costarricense de Downhill</h1><p>El domingo pasado se dio la primera fecha de la Copa Nacional de DH y todos los corredores la recibieron con gran entusiasmo. Con 65 inscritos la pista El Cabuyal fue sede para este primera competencia. La pista se encontraba en condiciones sumamente secas y con el paso de los atletas los peraltes cambiaban y cambiaban.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f36fc890e11d7ce9d7364d63b223a34527715c2.jpg"></article>]]></description>
-            <link>http://ascrdh.blogspot.com/2016/04/copa-nacional-dh-finales-el-cabuyal.html</link>
-            <guid isPermaLink="false">3c35580e-3e7a-4b6e-9997-f5721584cd32</guid>
-            <pubDate>Wed, 08 Jun 2016 04:58:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
