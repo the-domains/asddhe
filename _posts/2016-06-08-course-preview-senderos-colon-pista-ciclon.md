@@ -63,10 +63,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JnYHhWd8VRE'
 title: 'Course Preview Senderos Colón, Pista Ciclón'
-datePublished: '2016-06-08T06:03:20.821Z'
-dateModified: '2016-06-08T05:47:43.229Z'
-starred: false
+datePublished: '2016-06-08T06:08:12.734Z'
+dateModified: '2016-06-08T06:08:12.441Z'
 sourcePath: _posts/2016-06-08-course-preview-senderos-colon-pista-ciclon.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
