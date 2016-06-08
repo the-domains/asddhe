@@ -11,15 +11,16 @@ publisher:
   domain: ascrdh.blogspot.com
 keywords: []
 description: >-
-  Ronny es un corredor élite que sin duda alguna nos ha venido impresionando a
-  todos. En esta nota podremos saber un poco más acerca de Ronny... ¿Quien es
-  Ronny Porras?
+  Roberto "Teto" Castillo se deja la Segunda Fecha de la COPA NACIONAL DE
+  DOWNHILL en Senderos de Colón y se convierte en el nuevo líder. · Ronny Porras
+  sorprende con un tercer lugar en las finales, primero en clasificación y es
+  tercer lugar en la tabla general.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/05/conociendo-un-poco-ronny-porras.html'
+isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/05/segunda-fecha-copa-nacional-dh.html'
 title: Asociación Costarricense de Downhill
-datePublished: '2016-06-08T04:58:56.585Z'
-dateModified: '2016-06-08T04:55:13.339Z'
+datePublished: '2016-06-08T04:58:57.852Z'
+dateModified: '2016-06-08T04:55:42.161Z'
 starred: false
 sourcePath: _posts/2016-06-08-asociacion-costarricense-de-downhill.md
 inFeed: true
@@ -29,4 +30,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Asociación Costarricense de Downhill</h1><p>Ronny es un corredor élite que sin duda alguna nos ha venido impresionando a todos. En esta nota podremos saber un poco más acerca de Ronny... ¿Quien es Ronny Porras?</p><img src="https://4.bp.blogspot.com/-aWfl7pAL8S0/VzVKzsOR3-I/AAAAAAAAATk/tYYClkh6iP4pYrIcNMyXKcpQkvXoKKUagCLcB/w1200-h630-p-nu/ronny%2Bjacha.jpg" /></article>
+<article style=""><h1>Asociación Costarricense de Downhill</h1><p>Roberto "Teto" Castillo se deja la Segunda Fecha de la COPA NACIONAL DE DOWNHILL en Senderos de Colón y se convierte en el nuevo líder. · Ronny Porras sorprende con un tercer lugar en las finales, primero en clasificación y es tercer lugar en la tabla general.</p><img src="https://2.bp.blogspot.com/-iVDyfZWm_TY/VztOmTFThUI/AAAAAAAAAUk/0XpUhSctqPwwW9epPR0e3KJfyeUM6FpKACLcB/w1200-h630-p-nu/tttt.jpg" /></article>
