@@ -1,4 +1,3 @@
-layout_spectrum: 0.8259642068296671
 typography_spectrum: 0.07610962190665305
 color:
   brandStrength: 0.23056643176823854
@@ -11,4 +10,7 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-name: ASDDHe
+layout_spectrum: 0.8259642068296671
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90b806d-dd15-48a5-9571-ee556413ef32.jpg'
+name: ASDDH
+title: Asociación Costarricense de Downhill
