@@ -11,17 +11,17 @@ publisher:
   domain: ascrdh.blogspot.com
 keywords: []
 description: >-
-  La Copa Nacional de Downhill 2016 está por comenzar. Con aproximadamente 70
-  corredores, la Finca La Lucha dará la apertura de la copa en la pista El
-  Cabuyal. Muchos se preguntarán la dinámica de la copa... ¿Cómo se otorgan los
-  puntos?, ¿para qué una clasificación? Bueno... Aquí les explicamos como
-  funciona.
-inLanguage: ca
+  El domingo pasado se dio la primera fecha de la Copa Nacional de DH y todos
+  los corredores la recibieron con gran entusiasmo. Con 65 inscritos la pista El
+  Cabuyal fue sede para este primera competencia. La pista se encontraba en
+  condiciones sumamente secas y con el paso de los atletas los peraltes
+  cambiaban y cambiaban.
+inLanguage: es
 app_links: []
-isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/04/dinamica-copa-nacional.html'
+isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/04/copa-nacional-dh-finales-el-cabuyal.html'
 title: Asociación Costarricense de Downhill
-datePublished: '2016-06-08T04:58:51.347Z'
-dateModified: '2016-06-08T04:53:04.246Z'
+datePublished: '2016-06-08T04:58:53.022Z'
+dateModified: '2016-06-08T04:53:58.686Z'
 starred: false
 sourcePath: _posts/2016-06-08-asociacion-costarricense-de-downhill.md
 inFeed: true
@@ -31,4 +31,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Asociación Costarricense de Downhill</h1><p>La Copa Nacional de Downhill 2016 está por comenzar. Con aproximadamente 70 corredores, la Finca La Lucha dará la apertura de la copa en la pista El Cabuyal. Muchos se preguntarán la dinámica de la copa... ¿Cómo se otorgan los puntos?, ¿para qué una clasificación? Bueno... Aquí les explicamos como funciona.</p><img src="https://1.bp.blogspot.com/-49leJAgONZM/VxD6Nq_OOZI/AAAAAAAAAQ4/BDsFRfKlzbcVjGdLsIbjlOzZtnV2EBZHgCLcB/w1200-h630-p-nu/12743884_454725407986165_3405402942589454726_n.jpg" /></article>
+<article style=""><h1>Asociación Costarricense de Downhill</h1><p>El domingo pasado se dio la primera fecha de la Copa Nacional de DH y todos los corredores la recibieron con gran entusiasmo. Con 65 inscritos la pista El Cabuyal fue sede para este primera competencia. La pista se encontraba en condiciones sumamente secas y con el paso de los atletas los peraltes cambiaban y cambiaban.</p><img src="https://1.bp.blogspot.com/-HiBczM941pg/VxZmYElbLQI/AAAAAAAAASI/t93hKPTxg-UEqXaUj1ikvtsDvEIS79adwCLcB/w1200-h630-p-nu/IMG_0326.jpg" /></article>
