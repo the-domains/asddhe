@@ -1,0 +1,67 @@
+---
+author:
+  - name: Asociacion Costarricense Downhill
+    url: 'https://www.youtube.com/channel/UCHHZFjc7YtfL8UTssrTfxRw'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+keywords: []
+description: >-
+  Video oficial de la ASOCIACIÓN DEPORTIVA DE DOWNHILL sobre el Campeonato
+  Nacional de Downhill 2015, en la PISTA EL CABUYAL.
+inLanguage: ca
+app_links:
+  - url: 'vnd.youtube://www.youtube.com/watch?v=r1Icdaux-_M&feature=applinks'
+    type: ios
+    namespace: ai
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'vnd.youtube://www.youtube.com/watch?v=r1Icdaux-_M&feature=applinks'
+    type: android
+    namespace: ai
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/watch?v=r1Icdaux-_M&feature=applinks'
+    type: web
+    namespace: ai
+  - url: 'vnd.youtube://www.youtube.com/watch?v=r1Icdaux-_M&feature=applinks'
+    namespace: twitter
+    type: ipad
+    name: YouTube
+    id: '544007664'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=r1Icdaux-_M&feature=applinks'
+    namespace: twitter
+    type: iphone
+    name: YouTube
+    id: '544007664'
+  - url: 'https://www.youtube.com/watch?v=r1Icdaux-_M'
+    namespace: twitter
+    type: googleplay
+    name: YouTube
+    id: com.google.android.youtube
+  - path: http/www.youtube.com/watch?v=r1Icdaux-_M
+    package: com.google.android.youtube
+    namespace: google
+    type: android
+  - path: vnd.youtube/www.youtube.com/watch?v=r1Icdaux-_M
+    package: '544007664'
+    namespace: google
+    type: ios
+isBasedOnUrl: 'https://www.youtube.com/watch?v=r1Icdaux-_M'
+title: PROMO Campeonato Nacional 2015
+datePublished: '2016-06-08T06:03:16.439Z'
+dateModified: '2016-06-08T05:46:35.897Z'
+starred: false
+sourcePath: _posts/2016-06-08-promo-campeonato-nacional-2015.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fr1Icdaux-_M%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr1Icdaux-_M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr1Icdaux-_M%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
