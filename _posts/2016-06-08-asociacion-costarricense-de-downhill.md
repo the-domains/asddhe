@@ -19,8 +19,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/05/segunda-fecha-copa-nacional-dh.html'
 title: Asociación Costarricense de Downhill
-datePublished: '2016-06-08T04:58:57.852Z'
-dateModified: '2016-06-08T04:55:42.161Z'
+datePublished: '2016-06-08T05:14:14.100Z'
+dateModified: '2016-06-08T05:13:28.269Z'
 starred: false
 sourcePath: _posts/2016-06-08-asociacion-costarricense-de-downhill.md
 inFeed: true
