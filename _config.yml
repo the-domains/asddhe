@@ -1,4 +1,6 @@
 typography_spectrum: 0.07610962190665305
+content_rating:
+  adult: false
 color:
   brandStrength: 0.23056643176823854
   lightness: 0.02320777392014861
@@ -13,4 +15,5 @@ color:
 layout_spectrum: 0.8259642068296671
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90b806d-dd15-48a5-9571-ee556413ef32.jpg'
 name: ASDDH
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/edde1b6b-1e18-4fa6-bd37-a4f9dfd579ed.jpg'
 title: Asociación Costarricense de Downhill
