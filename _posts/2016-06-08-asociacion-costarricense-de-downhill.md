@@ -11,17 +11,16 @@ publisher:
   domain: ascrdh.blogspot.com
 keywords: []
 description: >-
-  El domingo pasado se dio la primera fecha de la Copa Nacional de DH y todos
-  los corredores la recibieron con gran entusiasmo. Con 65 inscritos la pista El
-  Cabuyal fue sede para este primera competencia. La pista se encontraba en
-  condiciones sumamente secas y con el paso de los atletas los peraltes
-  cambiaban y cambiaban.
+  Asociación Deportiva de Downhill continúa su temporada con la Segunda Fecha de
+  la COPA NACIONAL DE DOWNHILL en Senderos de Colón, en Ciudad Colón. Se espera
+  una lucha cerrada entre Álvaro Hidalgo y Roberto "Teto" Castillo, en la
+  categoría élite.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/04/copa-nacional-dh-finales-el-cabuyal.html'
+isBasedOnUrl: 'http://ascrdh.blogspot.com/2016/05/continua-la-copa-nacional-dh.html'
 title: Asociación Costarricense de Downhill
-datePublished: '2016-06-08T04:58:53.022Z'
-dateModified: '2016-06-08T04:53:58.686Z'
+datePublished: '2016-06-08T04:58:54.968Z'
+dateModified: '2016-06-08T04:54:44.989Z'
 starred: false
 sourcePath: _posts/2016-06-08-asociacion-costarricense-de-downhill.md
 inFeed: true
@@ -31,4 +30,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Asociación Costarricense de Downhill</h1><p>El domingo pasado se dio la primera fecha de la Copa Nacional de DH y todos los corredores la recibieron con gran entusiasmo. Con 65 inscritos la pista El Cabuyal fue sede para este primera competencia. La pista se encontraba en condiciones sumamente secas y con el paso de los atletas los peraltes cambiaban y cambiaban.</p><img src="https://1.bp.blogspot.com/-HiBczM941pg/VxZmYElbLQI/AAAAAAAAASI/t93hKPTxg-UEqXaUj1ikvtsDvEIS79adwCLcB/w1200-h630-p-nu/IMG_0326.jpg" /></article>
+<article style=""><h1>Asociación Costarricense de Downhill</h1><p>Asociación Deportiva de Downhill continúa su temporada con la Segunda Fecha de la COPA NACIONAL DE DOWNHILL en Senderos de Colón, en Ciudad Colón. Se espera una lucha cerrada entre Álvaro Hidalgo y Roberto "Teto" Castillo, en la categoría élite.</p><img src="https://2.bp.blogspot.com/-Q1Lbpt_by8A/VyeBFume61I/AAAAAAAAATA/5WGtkyWxuNIbuG28WXBI8yUZHmXsJ3zFQCLcB/w1200-h630-p-nu/senderos%2Btines.jpg" /></article>
