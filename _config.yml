@@ -13,7 +13,9 @@ color:
     - '#79BD8F'
     - '#00A388'
 layout_spectrum: 0.8259642068296671
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90b806d-dd15-48a5-9571-ee556413ef32.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90b806d-dd15-48a5-9571-ee556413ef32.jpg
 name: ASDDH
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/edde1b6b-1e18-4fa6-bd37-a4f9dfd579ed.jpg'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/edde1b6b-1e18-4fa6-bd37-a4f9dfd579ed.jpg
 title: Asociación Costarricense de Downhill
